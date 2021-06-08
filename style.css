@@ -1,0 +1,13 @@
+#im{
+    background-image: "mario.jpg";
+}
+#console{
+    background-position:center;
+}
+#model-dialog{
+    width: 90%;
+}
+.instruction_image{
+    display:"inline-block";
+    width:45%;
+}
